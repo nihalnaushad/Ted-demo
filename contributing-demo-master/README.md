@@ -14,4 +14,4 @@ Fork the repository to a github account. Using another account, go to that accou
 
 ## Really Important Section
 
-TYPO BIG TYPO BIGGER TYPO BIGGEST TYPO
+TYPO FIX
